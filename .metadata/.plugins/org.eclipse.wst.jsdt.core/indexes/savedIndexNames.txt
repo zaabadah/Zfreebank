@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+/home/zaa/PROJETOS-BASE/Zfreebank/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+656184655.index
