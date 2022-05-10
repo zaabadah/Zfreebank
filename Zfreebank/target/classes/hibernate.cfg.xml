@@ -31,7 +31,17 @@
 
 		<!-- Cria as tabelas do banco de dados -->
 		<property name="hbm2ddl.auto">create</property>
-		
+
+		<!-- Mapeamento das tabelas -->
+		<mapping class="com.zfreebank.pacotedominios.Estados" />
+		<mapping class="com.zfreebank.pacotedominios.Cidades" />
+		<mapping class="com.zfreebank.pacotedominios.Produtos" />
+		<mapping class="com.zfreebank.pacotedominios.Fornecedores" />
+		<mapping class="com.zfreebank.pacotedominios.Clientes" />
+		<mapping class="com.zfreebank.pacotedominios.Funcionarios" />
+		<mapping class="com.zfreebank.pacotedominios.Pessoas" />
+		<mapping class="com.zfreebank.pacotedominios.Usuarios" />
+
 	</session-factory>
 
 </hibernate-configuration>
